@@ -1,0 +1,15 @@
+PROJECT DETAILS 
+Project Domain - Data Engineering 
+Project Topic - Azure Databricks End to End ETL & Visualization Project 
+
+Description - 
+•	Developed an end-to-end data pipeline flow in the Databricks for extract, transform and load data. 
+•	Implemented Medallion architecture in the process which will contain bronze, silver and gold layers of data. 
+•	Spark streaming for real time data processing using Autoloader.
+•	Build dimensional data model also known as star schema. 
+•	Declarative pipeline for Gold Layer data modelling.
+•	Handling slowly changing dimensions of the data (SCD Type 1 & 2). 
+•	Data processed via pyspark (Distributed data processing framework used in an clustered environment) 
+•	Databricks Workflow to automate and orchestrate the whole process.
+•	Single automated pipeline for historical & incremental data processing
+•	Processed gold layer data visualized with Power BI reports. 
