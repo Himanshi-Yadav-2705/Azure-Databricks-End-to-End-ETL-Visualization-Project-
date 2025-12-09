@@ -1,0 +1,21 @@
+PROJECT DETAILS
+
+Project Domain - Data Engineering
+
+🚀 Project Showcase: Azure Databricks End-to-End ETL & Visualization Project ☁️
+
+Thrilled to share my recent project where I built a complete data engineering pipeline leveraging the power of Azure Databricks for ETL (Extract, Transform, Load) and data visualization using Power BI!
+
+🔹 Key Highlights:
+1. Developed an end-to-end data pipeline in Databricks for seamless data ingestion, transformation, and loading.
+2. Implemented the Medallion Architecture (Bronze, Silver, and Gold layers) to ensure data quality and modularity.
+3. Utilized Spark Streaming with Autoloader for real-time data processing.
+4. Designed a Dimensional Data Model (Star Schema) for efficient analytics.
+5. Implemented Slowly Changing Dimensions (SCD Type 1 & Type 2) for maintaining historical data accuracy.
+6. Built a Declarative Pipeline for Gold Layer data modeling.
+7. Automated the entire workflow using Databricks Workflows for scheduling and orchestration.
+8. Created a single unified pipeline capable of handling both historical and incremental data.
+9. Leveraged PySpark for distributed data processing in a clustered environment.
+10. Visualized enriched Gold Layer data using Power BI dashboards.
+
+💡 This project strengthened my understanding of modern data architecture, streaming data processing, and data orchestration in a real-world cloud environment. 
