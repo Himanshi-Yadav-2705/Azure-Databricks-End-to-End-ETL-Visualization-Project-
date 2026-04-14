@@ -15,3 +15,10 @@ Description -
 •	Databricks Workflow to automate and orchestrate the whole process.
 •	Single automated pipeline for historical & incremental data processing
 •	Processed gold layer data visualized with Power BI reports. 
+
+You can explore the full demo and code here:
+🎥 Video Demo: https://lnkd.in/gwXkPQhs
+
+📂 GitHub Repository: https://lnkd.in/ge2yTWe9
+
+hashtag#Azure hashtag#Databricks hashtag#PySpark hashtag#ETL hashtag#DataEngineering hashtag#PowerBI hashtag#DataPipeline hashtag#BigData hashtag#CloudComputing hashtag#MedallionArchitecture hashtag#Autoloader hashtag#SparkStreaming
